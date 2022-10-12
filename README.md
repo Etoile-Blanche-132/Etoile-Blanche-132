@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently Studying on [Stony Brook University, Dept. of Computer Science](https://www.stonybrook.edu)
 
-- 🌱 I’m currently learning **about Artificial intelligence**
+- 🌱 I’m currently learning about **Artificial intelligence**
 
-- 👯 I’m looking to collaborate on **any AI, DS project.**
+- 👯 I’m looking to collaborate on **AI, DS project.**
 
-- 🤝 I’m looking for help with **any AI, DS project.**
+- 🤝 I’m looking for help with **AI, DS project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Etoile-Blanche-132](https://github.com/Etoile-Blanche-132)
 
